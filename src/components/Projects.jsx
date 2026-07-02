@@ -6,7 +6,7 @@ function Projects() {
         "A comprehensive student wellbeing platform featuring mood tracking, journaling, counselor appointment booking, and mental health support modules.",
       technologies: ["React", "Node.js", "MongoDB", "Express"],
       github: "#",
-      demo: "#",
+      demo: "https://drive.google.com/file/d/1FmziaVxaP7ieQTfZhvF6t4_IIG48jQm2/view",
     },
     {
       title: "Decor Booking System",
