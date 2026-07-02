@@ -96,7 +96,7 @@ function About() {
         <div className="about-content">
 
           <p className="about-text">
-            I am currently pursuing MCA while working as a Data Expert with 1.6 
+            I am currently pursuing MCA while working as a Data Expert with 1+
             years of experience in the data and AI domain. 
 
             My work also includes web scraping, data validation, 
@@ -115,7 +115,7 @@ function About() {
           <div className="facts-grid">
 
             <div className="fact-card">
-              <h3>1.7+ Years</h3>
+              <h3>1+ Years</h3>
               <p>Professional Work Experience</p>
             </div>
 

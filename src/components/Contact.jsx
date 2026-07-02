@@ -202,7 +202,7 @@ function Contact() {
                 target="_blank"
                 rel="noreferrer"
               >
-                github.com/AnandiSeba
+                github.com/Anandi
               </a>
             </div>
 

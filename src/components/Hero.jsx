@@ -174,7 +174,7 @@ function Hero() {
           </h2>
 
           <p>
-            With 1.5 years of experience in data-focused work, 
+            With 1+ years of experience in data-focused work, 
             I am currently expanding my skills in web development and enhancing 
             my technical expertise through hands-on learning and projects.
           </p>

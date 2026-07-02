@@ -3,7 +3,7 @@ function Projects() {
     {
       title: "College Student Wellbeing Application",
       description:
-        "A comprehensive student wellbeing platform featuring mood tracking, journaling, counselor appointment booking, and mental health support modules. (On Progress)",
+        "A comprehensive student wellbeing platform featuring mood tracking, journaling, counselor appointment booking, and mental health support modules. (On Progress!)",
       technologies: ["React", "Node.js", "MongoDB", "Express"],
       github: "#",
       demo: "https://drive.google.com/file/d/1FmziaVxaP7ieQTfZhvF6t4_IIG48jQm2/view",

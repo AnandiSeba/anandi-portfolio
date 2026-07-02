@@ -116,7 +116,7 @@ function Experience() {
             </p>
 
            <p className="duration">
-  1.5 Years Professional Experience
+  1+ Years Professional Experience
 </p>
 
 <ul className="responsibilities">
