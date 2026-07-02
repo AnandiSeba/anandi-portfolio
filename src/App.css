@@ -1,0 +1,13 @@
+.hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.about {
+  padding: 80px 10%;
+}
+
+.skills {
+  padding: 80px 10%;
+}
